@@ -76,7 +76,7 @@ body {
 
 .grid {
   display: grid;
-  padding: 0 3.2rem;
+  /* padding: 0 3.2rem; */
   row-gap: 9.6rem;
   -moz-column-gap: 6.4rem;
   column-gap: 6.4rem;
